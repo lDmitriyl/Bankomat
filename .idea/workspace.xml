@@ -1,0 +1,133 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="53a8a46e-183b-4485-b83c-d0154df8857c" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="HTML File" />
+        <option value="CSS File" />
+        <option value="JavaScript File" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="PhpDebugGeneral" listening_started="true" />
+  <component name="PhpServers">
+    <servers>
+      <server host="myproject" id="cf4a811a-3e29-4b3b-b39c-fa847ba00bde" name="myproject" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="W:/domains/MyProject" />
+        </path_mappings>
+      </server>
+      <server host="siteimage" id="de562efe-553d-44bd-8ac6-a57b37d092be" name="siteimage" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="W:/domains/SiteImage" />
+        </path_mappings>
+      </server>
+      <server host="bankomat" id="85a549f5-008a-44bb-8d1e-0bca12efc042" name="bankomat" use_path_mappings="true">
+        <path_mappings>
+          <mapping local-root="$PROJECT_DIR$" remote-root="W:/domains/Bankomat" />
+        </path_mappings>
+      </server>
+    </servers>
+  </component>
+  <component name="ProjectId" id="1qt8OrMho59gobnz249Z6qaU7Lg" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="DatabaseDriversLRU" value="mysql" />
+    <property name="DefaultHtmlFileTemplate" value="HTML File" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../cheese" />
+    <property name="list.type.of.created.stylesheet" value="CSS" />
+    <property name="ts.external.directory.path" value="D:\1прог\программы\PhpStorm 2021.1.1\plugins\JavaScriptLanguage\jsLanguageServicesImpl\external" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\1прог\OpenServer\domains\MyProject\core\admin\view" />
+      <recent name="D:\1прог\OpenServer\domains\MyProject\core\admin\controller" />
+      <recent name="D:\1прог\OpenServer\domains\MyProject\core\admin\view\js" />
+      <recent name="D:\1прог\OpenServer\domains\MyProject\core\admin\view\property-options" />
+      <recent name="D:\1прог\OpenServer\domains\MyProject\core\admin\view\property" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\1прог\OpenServer\domains\MyProject\templates" />
+      <recent name="D:\1прог\OpenServer\domains\MyProject\core\admin\view\product" />
+      <recent name="D:\1прог\OpenServer\domains\MyProject\templates\layout" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="53a8a46e-183b-4485-b83c-d0154df8857c" name="Default Changelist" comment="" />
+      <created>1617887497167</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617887497167</updated>
+      <workItem from="1617887498266" duration="13889000" />
+      <workItem from="1617966166904" duration="3280000" />
+      <workItem from="1618056960151" duration="7349000" />
+      <workItem from="1618142479124" duration="15902000" />
+      <workItem from="1618221932004" duration="17082000" />
+      <workItem from="1618311672551" duration="13974000" />
+      <workItem from="1618391878843" duration="17364000" />
+      <workItem from="1618488552025" duration="21832000" />
+      <workItem from="1618556818452" duration="21074000" />
+      <workItem from="1618674735050" duration="19078000" />
+      <workItem from="1618748597310" duration="18572000" />
+      <workItem from="1618830320128" duration="17209000" />
+      <workItem from="1618917895460" duration="13309000" />
+      <workItem from="1619002021611" duration="21799000" />
+      <workItem from="1619089835964" duration="16727000" />
+      <workItem from="1619130063087" duration="3000" />
+      <workItem from="1619178663740" duration="8304000" />
+      <workItem from="1619262863238" duration="1636000" />
+      <workItem from="1619283938279" duration="175000" />
+      <workItem from="1619284156120" duration="13815000" />
+      <workItem from="1619347580422" duration="19703000" />
+      <workItem from="1619417652799" duration="2244000" />
+      <workItem from="1619433618288" duration="10214000" />
+      <workItem from="1619505869642" duration="1275000" />
+      <workItem from="1619523082071" duration="2899000" />
+      <workItem from="1619526795332" duration="374000" />
+      <workItem from="1619527733324" duration="12043000" />
+      <workItem from="1619556031338" duration="3182000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <watches-manager>
+      <configuration name="index.php">
+        <watch expression="$this" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

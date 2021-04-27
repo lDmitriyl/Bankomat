@@ -1,0 +1,61 @@
+.container{
+    width: 1024px;
+    margin: 0 auto;
+}
+
+input{
+    width: 500px;
+    height: 30px;
+    margin: 10px 0px;
+}
+
+td{
+    border: 1px solid #ecd55b;
+    background-color: #efe1bc;
+    margin: 0;
+}
+table{
+    margin-left: 40px;
+    margin-bottom: 10px;
+}
+.bank{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 700px;
+    margin: 0 auto;
+    padding: 20px;
+    border:  1px solid black;
+}
+.form-btn{
+    position: relative;
+    height: 50px;
+}
+
+.bank-btn{
+    position: absolute;
+    right: 1px;
+    padding: 10px;
+}
+.answer{
+    text-align: left;
+    width: 400px;
+    border:  1px solid #7474de;
+    margin: 10px 0;
+    background-color: #cbcbef;
+}
+.answer-error{
+    height: 100px;
+    width: 300px;
+    border: 1px solid #ecd55b;
+    background-color: #efe1bc;
+    margin-bottom: 10px;
+    margin-left: 40px;
+    text-align:center;
+    padding-top: 60px;
+}
+
+.none{
+    display: none;
+}
+
