@@ -1,6 +1,6 @@
 $('.bank-btn').click(function (e){
     e.preventDefault();
-    let banknotes = $('input[name = "banknotes"]').attr('placeholder');
+    let banknotes = $('input[name = "banknotes"]').val();
     let sum = $('input[name = "sum"]').val();
 
     $.ajax({
